@@ -7,12 +7,12 @@
   <a href="https://www.linkedin.com/anthonybuncio1/">LinkedIn</a>
 </p>
 
-- 👨🏾‍💻 **Fullstack Dev & Software Engineer** &#12299;_working in Data, Reliability, & Analytics_
-- ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.svg`, `.json`, `.sql`
+- 👨🏾‍💻 **Fullstack Dev & Software Engineer** &#12299;_working in Data, Analytics, & Insights_
+- ⚙️ What I use daily: `.ts`, `.js`, `.html`, `.css`, `.svg`, `.json`, `.sql`
 - 🌱 I’m currently learning all about [trpc](https://trpc.io/).
 - 🤙🏽 I’m looking to collaborate on anything <img src="https://emojis.slackmojis.com/emojis/images/1656974321/59940/typescript_parrot.gif?1656974321" width="16"/>!
 - 💬 Ask me about **DATA** or **SPORTS** 🏀 🏈 ⚾️
-- <img src="https://cdn-icons-png.flaticon.com/512/197/197561.png" width="13"/> Fun fact: The Philippines is comprised of **more than 7,000** islands.
+- ⚡️ Fun fact: The Philippines is comprised of **more than 7,000** islands! <img src="https://cdn-icons-png.flaticon.com/512/197/197561.png" width="13"/>
 
 <h3>Things I code with</h3>
 <p>
