@@ -1,11 +1,11 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514680/6827/blob_aww.png?1643514680" width="35"/> Hey! Nice to see you. </h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514680/6827/blob_aww.png?1643514680" width="35"/> Hey! Welcome to my page!</h1>
 
-<p>Welcome to my page! </br> I'm Anthony, a fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/861/861648.png" width="20"/> <b>Houston, Texas</b>. </p>
+<p>Hello! I'm Anthony, a fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/861/861648.png" width="20"/> <b>Houston, Texas</b>. </p>
 
 <p align="left">
   <a href="https://anthonybuncio.com">My Website</a> •
   <a href="https://www.linkedin.com/anthonybuncio1/">LinkedIn</a>
-</p> </br>
+</p>
 
 - 👨🏾‍💻 I’m a Data & Analytics Software Engineer at AutoLotto, Inc.
 - ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.svg`, `.json`, `.sql`
