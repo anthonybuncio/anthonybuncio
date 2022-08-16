@@ -10,9 +10,9 @@
 - 👨🏾‍💻 I’m a Data & Analytics Software Engineer at AutoLotto, Inc.
 - ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.svg`, `.json`, `.sql`
 - 🌱 I’m currently learning all about [trpc](https://trpc.io/).
-- 🤙🏽 I’m looking to collaborate on anything <img src="https://emojis.slackmojis.com/emojis/images/1656974321/59940/typescript_parrot.gif?1656974321" width="20"/>!
-- 💬 Ask me about DATA or SPORTS🏀 🏈 ⚾️
-- ⚡️ Fun fact:
+- 🤙🏽 I’m looking to collaborate on anything <img src="https://emojis.slackmojis.com/emojis/images/1656974321/59940/typescript_parrot.gif?1656974321" width="16"/>!
+- 💬 Ask me about **DATA** or **SPORTS** 🏀 🏈 ⚾️
+- <img src="https://cdn-icons-png.flaticon.com/512/197/197561.png" width="13"/> Fun fact: The Philippines is comprised of **more than 7,000** islands.
 
 <h3>Things I code with</h3>
 <p>
@@ -41,4 +41,3 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p>
