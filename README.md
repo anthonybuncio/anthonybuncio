@@ -1,16 +1,17 @@
-<h2 align="left">Hi there 👋</h2>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514680/6827/blob_aww.png?1643514680" width="35"/> Hey! Nice to see you. </h1>
+
 <p>Welcome to my page! </br> I'm Anthony, a fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/861/861648.png" width="20"/> <b>Houston, Texas</b>. </p>
 
 <p align="left">
   <a href="https://anthonybuncio.com">My Website</a> •
   <a href="https://www.linkedin.com/anthonybuncio1/">LinkedIn</a>
-</p>
-</br>
+</p> </br>
 
 - 👨🏾‍💻 I’m a Data & Analytics Software Engineer at AutoLotto, Inc.
-- 🌱 I’m currently learning [trpc](https://trpc.io/).
-- 🤙🏽 I’m looking to collaborate on anything typescript!
-- 💬 Ask me about SPORTS🏀🏈⚾️
+- ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.svg`, `.json`, `.sql`
+- 🌱 I’m currently learning all about [trpc](https://trpc.io/).
+- 🤙🏽 I’m looking to collaborate on anything <img src="https://emojis.slackmojis.com/emojis/images/1656974321/59940/typescript_parrot.gif?1656974321" width="20"/>!
+- 💬 Ask me about DATA or SPORTS🏀 🏈 ⚾️
 - ⚡️ Fun fact:
 
 <h3>Things I code with</h3>
