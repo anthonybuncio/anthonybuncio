@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/anthonybuncio1/">LinkedIn</a>
 </p>
 
-- 👨🏾‍💻 I’m a Data & Analytics Software Engineer at AutoLotto, Inc.
+- 👨🏾‍💻 **Fullstack Dev & Software Engineer** &#12299;_working in Data, Reliability, & Analytics_
 - ⚙️ I use daily: `.ts`, `.js`, `.html`, `.css`, `.svg`, `.json`, `.sql`
 - 🌱 I’m currently learning all about [trpc](https://trpc.io/).
 - 🤙🏽 I’m looking to collaborate on anything <img src="https://emojis.slackmojis.com/emojis/images/1656974321/59940/typescript_parrot.gif?1656974321" width="16"/>!
