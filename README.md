@@ -3,8 +3,8 @@
 <p>Hey! I'm Anthony, a remote fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/861/861648.png" width="20"/> <b>Houston, Texas</b>. </p>
 
 <p align="left">
-  <a href="https://anthonybuncio.com" target="_blank">My Website</a> •
-  <a href="https://www.linkedin.com/anthonybuncio1/" target="_blank">LinkedIn</a>
+  <a href="https://anthonybuncio.com" target="_blank" rel="noopener noreferrer">My Website</a> •
+  <a href="https://www.linkedin.com/anthonybuncio1/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 </p>
 
 - 👨🏾‍💻 **Fullstack Dev & Software Engineer** &#12299;_working in Data & Analytics Engineering_
