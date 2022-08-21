@@ -2,14 +2,14 @@
 
 <p>Hey! I'm Anthony, a remote fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/861/861648.png" width="20"/> <b>Houston, Texas</b>. </p>
 
-<p align="left">
+<p>
   <a href="https://anthonybuncio.com" target="_blank" rel="noopener noreferrer">My Website</a> •
   <a href="https://www.linkedin.com/anthonybuncio1/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 </p>
 
 - 👨🏾‍💻 **Fullstack Dev & Software Engineer** &#12299;_working in Data & Analytics Engineering_
 - ⚙️ What I use daily: `.ts`, `.js`, `.html`, `.css`, `.svg`, `.json`, `.sql`
-- 🌱 I’m currently learning [tRPC](https://trpc.io/) and [Remix](https://remix.run/).
+- 🌱 I’m currently learning — [tRPC](https://trpc.io/) and [Remix](https://remix.run/).
 - 👋🏽 I’m looking to collaborate on anything Typescript <img src="https://emojis.slackmojis.com/emojis/images/1656974321/59940/typescript_parrot.gif?1656974321" width="16"/>
 - 💬 Ask me about **DATA** or **SPORTS** 🏀 🏈 ⚾️
 - ⚡️ Fun fact: The Philippines is comprised of **more than 7,000** islands! <img src="https://cdn-icons-png.flaticon.com/512/197/197561.png" width="13"/>
@@ -64,3 +64,6 @@
   <img alt="trpc" src="https://img.shields.io/badge/-tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white" />
   <img alt="wordpress" src="https://img.shields.io/badge/-Wordpress-2596BE?style=flat-square&logo=wordpress&logoColor=white" />
   <img alt="tailwindcss" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+</p>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonybuncio&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
