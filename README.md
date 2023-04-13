@@ -1,6 +1,6 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514680/6827/blob_aww.png?1643514680" width="35"/> Hello! Welcome to my page!</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514588/5906/this-is-fine-fire.gif?1643514588" width="35"/> Hello! Welcome to my page!</h1>
 
-<p>Hey! I'm Anthony, a remote fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/861/861648.png" width="20"/> <b>Houston, Texas</b>. </p>
+<p>Hey! I'm Anthony, a remote fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/861/861648.png" width="16"/>  </p>
 
 <p>
   <a href="https://anthonybuncio.com" target="_blank" rel="noopener noreferrer">My Website</a> •
@@ -8,10 +8,15 @@
 </p>
 
 - 👨🏾‍💻 **Fullstack Dev & Software Engineer** &#12299;_working in Data & Analytics Engineering_
-- ⚙️ What I use daily: `.ts`, `.js`, `.html`, `.css`, `.svg`, `.json`, `.sql`
-- 🌱 I’m currently learning — [tRPC](https://trpc.io/) and [Remix](https://remix.run/).
-- 👋🏽 I’m looking to collaborate on anything Typescript <img src="https://emojis.slackmojis.com/emojis/images/1656974321/59940/typescript_parrot.gif?1656974321" width="16"/>
-- 💬 Ask me about **DATA** or **SPORTS** 🏀 🏈 ⚾️
+
+- <img src="https://emojis.slackmojis.com/emojis/images/1643515206/12241/vscode.png?1643515206" width="20"/> What I use daily: `.ts`, `.js`, `.html`, `.css`, `.svg`, `.json`, `.sql`
+
+- <img src="https://emojis.slackmojis.com/emojis/images/1643516571/26107/brain.png?1643516571" width="24"/> I’m currently learning — [tRPC](https://trpc.io/) and [Remix](https://remix.run/).
+
+- <img src="https://emojis.slackmojis.com/emojis/images/1664458100/61490/old-man-yells-at-typescript.png?1664458100" width="24"/> I’m looking to collaborate on anything Typescript
+
+- 💬 Ask me about **DATA** or **SPORTS**
+
 - ⚡️ Fun fact: The Philippines is comprised of **more than 7,000** islands! <img src="https://cdn-icons-png.flaticon.com/512/197/197561.png" width="13"/>
 
 <h3>I code with</h3>
