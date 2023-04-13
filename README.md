@@ -7,17 +7,17 @@
   <a href="https://www.linkedin.com/anthonybuncio1/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 </p>
 
-- 👨🏾‍💻 **Fullstack Dev & Software Engineer** &#12299;_working in Data & Analytics Engineering_
+👨🏾‍💻 **Fullstack Dev & Software Engineer** &#12299;_working in Data & Analytics Engineering_
 
-- <img src="https://emojis.slackmojis.com/emojis/images/1643515206/12241/vscode.png?1643515206" width="20"/> What I use daily: `.ts`, `.js`, `.html`, `.css`, `.svg`, `.json`, `.sql`
+<img src="https://emojis.slackmojis.com/emojis/images/1643515206/12241/vscode.png?1643515206" width="16"/> What I use daily: `.ts`, `.js`, `.html`, `.css`, `.svg`, `.json`, `.sql`
 
-- <img src="https://emojis.slackmojis.com/emojis/images/1643516571/26107/brain.png?1643516571" width="24"/> I’m currently learning — [tRPC](https://trpc.io/) and [Remix](https://remix.run/).
+🧠 I’m currently learning — [tRPC](https://trpc.io/) and [Remix](https://remix.run/).
 
-- <img src="https://emojis.slackmojis.com/emojis/images/1664458100/61490/old-man-yells-at-typescript.png?1664458100" width="24"/> I’m looking to collaborate on anything Typescript
+<img src="https://emojis.slackmojis.com/emojis/images/1664458100/61490/old-man-yells-at-typescript.png?1664458100" width="24"/> I’m looking to collaborate on anything Typescript
 
-- 💬 Ask me about **DATA** or **SPORTS**
+💬 Ask me about **DATA** or **SPORTS**
 
-- ⚡️ Fun fact: The Philippines is comprised of **more than 7,000** islands! <img src="https://cdn-icons-png.flaticon.com/512/197/197561.png" width="13"/>
+⚡️ Fun fact: The Philippines is comprised of **more than 7,000** islands! <img src="https://cdn-icons-png.flaticon.com/512/197/197561.png" width="13"/>
 
 <h3>I code with</h3>
 <p>
