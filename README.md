@@ -1,21 +1,19 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514588/5906/this-is-fine-fire.gif?1643514588" width="35"/> Hello! Welcome to my page!</h1>
-
-<p>Hey! I'm Anthony, a remote fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/861/861648.png" width="16"/>  </p>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1671512110/63294/github_daftpunk.gif?1671512110" width="30"/> Hello! I'm Anthony 👨🏽‍💻</h1>
 
 <p>
-  <a href="https://anthonybuncio.com" target="_blank" rel="noopener noreferrer">My Website</a> •
+  <a href="https://anthonybuncio.com" target="_blank" rel="noopener noreferrer">Personal Site</a> •
   <a href="https://www.linkedin.com/anthonybuncio1/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 </p>
 
-👨🏾‍💻 **Fullstack Dev & Software Engineer** &#12299;_working in Data & Analytics Engineering_
+<h3>About Me</h3>
+
+👨🏾‍💻 « **Full Stack Developer & Software Engineer (Data & Analytics)** »
 
 <img src="https://emojis.slackmojis.com/emojis/images/1643515206/12241/vscode.png?1643515206" width="16"/> What I use daily: `.ts`, `.js`, `.html`, `.css`, `.svg`, `.json`, `.sql`
 
-🧠 I’m currently learning — [tRPC](https://trpc.io/) and [Remix](https://remix.run/).
-
 <img src="https://emojis.slackmojis.com/emojis/images/1664458100/61490/old-man-yells-at-typescript.png?1664458100" width="24"/> I’m looking to collaborate on anything Typescript
 
-💬 Ask me about **DATA** or **SPORTS**
+💬 Chat with me about **DATA** or **SPORTS**
 
 ⚡️ Fun fact: The Philippines is comprised of **more than 7,000** islands! <img src="https://cdn-icons-png.flaticon.com/512/197/197561.png" width="13"/>
 
