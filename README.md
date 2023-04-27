@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1671512110/63294/github_daftpunk.gif?1671512110" width="30"/> Hello! I'm Anthony 👨🏽‍💻</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1671512110/63294/github_daftpunk.gif?1671512110" width="35"/> Hello! I'm Anthony 👋🏽</h1>
 
 <p>
   <a href="https://anthonybuncio.com" target="_blank" rel="noopener noreferrer">Personal Site</a> •
