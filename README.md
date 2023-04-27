@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://anthonybuncio.com" target="_blank" rel="noopener noreferrer">Personal Site</a> •
-  <a href="https://www.linkedin.com/anthonybuncio1/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/anthonybuncio1/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 </p>
 
 <h3>About Me</h3>
