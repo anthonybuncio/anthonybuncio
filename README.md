@@ -37,10 +37,4 @@
   <img src="https://img.shields.io/badge/-Docker-F3F7FA?logo=docker&logoColor=2496ED&style=for-the-badge" alt="Docker">
 </p>
 
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonybuncio&layout=compact&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonybuncio&layout=compact&theme=swift" />
-</picture>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonybuncio&layout=compact&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
