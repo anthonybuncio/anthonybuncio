@@ -1,7 +1,8 @@
 <h1>Hello, I'm Anthony! 👋🏽</h1>
 
 <p>
-  <a href="https://anthonybuncio.com" target="_blank" rel="noopener noreferrer">Website</a> •
+  <a href="https://anthonybuncio.com" target="_blank" rel="noopener noreferrer">My Portfolio</a> •
+  <a href="https://www.linkedin.com/in/anthonybuncio1/" target="_blank" rel="noopener noreferrer">Apptelligence Labs</a> •
   <a href="https://www.linkedin.com/in/anthonybuncio1/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 </p>
 
