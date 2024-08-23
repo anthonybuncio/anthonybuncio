@@ -16,7 +16,7 @@
 
 💬 Chat with me about **DATA** or **SPORTS**
 
-⚡️ Fun fact: The Philippines is comprised of **more than 7,000** islands! <img src="https://cdn-icons-png.flaticon.com/512/197/197561.png" width="13"/>
+⚡️ Fun fact: A **narcissistic number** is the sum of its own digits each raised to the power of the number of digits.
 
 <h3>I code with</h3>
 <p>
