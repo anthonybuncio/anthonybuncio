@@ -1,10 +1,10 @@
 <h1>Hello, I'm Anthony! 👋🏽</h1>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=anthonybuncio&theme=tokyonight-duo&exclude_days=Sun%2CSat&card_width=150&card_height=175&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
-</p>
+</p> -->
 
-<p align="center">
+<p align="left">
   <a href="https://anthonybuncio.com" target="_blank" rel="noopener noreferrer">My Portfolio</a> •
   <!-- <a href="https://www.apptelligencelabs.com/" target="_blank" rel="noopener noreferrer">Apptelligence Labs</a> • -->
   <a href="https://www.linkedin.com/in/anthonybuncio1/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
